@@ -6,6 +6,8 @@
 [![100% 本地](https://img.shields.io/badge/100%25-local-success.svg)](#合规与红线)
 [![只导本人数据](https://img.shields.io/badge/your%20data%20only-important-blue.svg)](#合规与红线)
 
+**[English](./README_EN.md)**
+
 > 平台会下架、会整改、会改规则、会停止维护，但你和 TA 一天天养出来的记忆，不该被一键清零。
 >
 > 这个工具包帮你走完三步：**取出来 → 洗干净 → 活过来**。
